@@ -1,1 +1,1 @@
-# Yashharad.ai-assistant
+# Yashharad.AI voice based assistant
